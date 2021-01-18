@@ -144,7 +144,13 @@ h3 {
     text-transform: uppercase;
     text-align: center;
     font-size: 30px; 
+    margin-top: 200px;
 }
+
+img.img-module3 {
+    width: 50%;
+}
+
 
 
 @media only screen and (max-width: 965px) {
