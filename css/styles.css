@@ -151,6 +151,19 @@ img.img-module3 {
     width: 50%;
 }
 
+.btn2 {
+    display: block;
+    text-align: center;
+    background-color: #8C3723;
+    color: #ffffff;
+    font-family: "Source Sans Pro Black";
+    text-transform: uppercase;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
 
 
 @media only screen and (max-width: 965px) {
